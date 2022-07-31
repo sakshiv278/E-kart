@@ -1,4 +1,3 @@
-## Apni Dukan
 
 ## Installation
 
