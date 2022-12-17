@@ -11,7 +11,7 @@ const cartRoutes = require('./routes/cartRoutes')
 const orderRoutes = require('./routes/orderRoutes')
 // const paymentRoutes = require('./routes/paymentRoutes')
 
-const mongoUrl = "mongodb+srv://vikas:vikas123@apnidukan.d2e3h.mongodb.net/apniDukan?retryWrites=true&w=majority"
+const mongoUrl = "mongodb+srv://sakshee:sakshee123@cluster0.hzacknf.mongodb.net/?retryWrites=true&w=majority"
 
 mongoose.connect(mongoUrl,{
 	useNewUrlParser: true,
